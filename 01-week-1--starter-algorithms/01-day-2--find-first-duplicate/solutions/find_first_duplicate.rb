@@ -8,7 +8,6 @@ def find_first_duplicate(arr)
 
     uniques.add(value)
   end
-
   -1
 end
 
